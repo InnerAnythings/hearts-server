@@ -1,0 +1,22 @@
+{
+  "name": "hearts-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.8.2",
+    "ws": "^8.18.1"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
